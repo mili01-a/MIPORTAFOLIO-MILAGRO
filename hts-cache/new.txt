@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:43:55	25854/25854	---MCZ	200	added ('OK')	text/html	date:Mon,%2009%20Nov%202026%2021:43:24%20GMT	https://demo.templatemonster.com/demo/274341.html	C:/Users/CS138/Desktop/Plantilla-M.A/demo.templatemonster.com/demo/274341.html	(from )
+16:43:55	46/46	---MCZ	200	added ('OK')	text/plain	date:Mon,%2009%20Nov%202026%2021:43:24%20GMT	https://demo.templatemonster.com/robots.txt		(from )
